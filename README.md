@@ -1,1 +1,6 @@
-# ugly_doodle_generator
+## how to run
+
+.\venv\Scripts\python.exe doodle.py
+
+## Results
+
